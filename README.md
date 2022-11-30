@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orangejustin
 - 👀 I’m interested in data science, ecometircs, modeling...
 - 🌱 I’m currently learning statistic models...
-- 💞️ I’m looking to collaborate on data science / Excel / Python project
+- 💞️ I’m looking to collaborate on data science / ML / Deep Learning / Reinforcement Learning project
 - 📫 How to reach me zechengli@outlook.com
 
 <!---
