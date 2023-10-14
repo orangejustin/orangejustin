@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm @orangejustin!
 
-![GitHub Banner](https://github.com/wenqian-zhao/wenqian-zhao/blob/main/banner.png)
+<img width="370" alt="687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" src="https://github.com/orangejustin/orangejustin/assets/81987214/bac618af-1b17-42ba-bc47-6357456002c0">
+
 
 Welcome to my GitHub profile! I'm a passionate individual with a keen interest in data science, machine learning, and analytics.
 
