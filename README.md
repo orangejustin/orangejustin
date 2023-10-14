@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @orangejustin
-- 👀 I’m interested in data science, machine learning, and analytics...
-- 🌱 I’m currently learning deep learning...
-- 💞️ I’m looking to collaborate on data science / ML / Deep Learning / Reinforcement Learning project
-- 📫 How to reach me zechengli@outlook.com
+# 👋 Hi there, I'm @orangejustin!
 
-<!---
-orangejustin/orangejustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Banner](https://github.com/wenqian-zhao/wenqian-zhao/blob/main/banner.png)
+
+Welcome to my GitHub profile! I'm a passionate individual with a keen interest in data science, machine learning, and analytics.
+
+## 🌟 About Me
+
+- 👀 **Interests:** Data Science, Machine Learning, Analytics
+- 🌱 **Currently Learning:** Deep Learning
+- 💞️ **Collaboration:** I'm open to collaborating on projects related to Data Science, ML, Deep Learning
+- 📫 **Contact:** Feel free to reach out to me at [zechengli@outlook.com](mailto:zechengli@outlook.com)
+
+## 🚀 Skills
+
+- **Languages:** Python, Java, R, SQL, Javascript, CSS, HTML
+- **Frameworks:** TensorFlow, PyTorch, Keras
+- **Tools:** Jupyter, Tableau, Google Analytics
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/zecheng-li-664536213/)
+- [Portfolio](https://orangejustin.github.io/)
