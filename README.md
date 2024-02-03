@@ -1,10 +1,21 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap" rel="stylesheet">
+
 <p align="center">
   <a href="https://github.com/orangejustin">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Zecheng (Justin) Li" /></a>
+    <img src="https://github.com/orangejustin/orangejustin/blob/main/name.png" alt="Zecheng (Justin) Li" /></a>
 </p>
-<img width="500" alt="687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" src="https://github.com/orangejustin/orangejustin/assets/81987214/bac618af-1b17-42ba-bc47-6357456002c0">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78B04&background=FF975E00&random=false&width=435&lines=Find+true+through+real+distribution.;Find+real+distribution+through+data." alt="Typing SVG" /></a>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&weight=500&size=36&duration=2600&pause=1000&color=F7AF3F&center=true&multiline=true&random=false&width=650&height=100&lines=Full-stack+Data+Scientist+;Curious%2C+innovative%2C+motivated" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<img width="600" alt="687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" src="https://github.com/orangejustin/orangejustin/assets/81987214/bac618af-1b17-42ba-bc47-6357456002c0">
+</p>
+
 
 Hello! I'm Justin Li, a curious and passionate grad student from Carnegie Mellon University, specializing in data science and machine learning. I thrive on transforming complex data into insightful, actionable solutions that create value for businesses and society. When I'm not immersed in datasets or algorithms, I'm a basketball enthusiast, fitness devotee, aspiring chef, and trail explorer—balancing life with the things I love:)
 
