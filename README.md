@@ -1,5 +1,7 @@
-# 👋 Hi there, I'm @orangejustin!
-
+<p align="center">
+  <a href="https://github.com/orangejustin">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Zecheng (Justin) Li" /></a>
+</p>
 <img width="500" alt="687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" src="https://github.com/orangejustin/orangejustin/assets/81987214/bac618af-1b17-42ba-bc47-6357456002c0">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78B04&background=FF975E00&random=false&width=435&lines=Find+true+through+real+distribution.;Find+real+distribution+through+data." alt="Typing SVG" /></a>
