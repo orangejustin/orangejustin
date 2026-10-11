@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://orangejustin.github.io/">Portfolio ↗</a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/zecheng-li-664536213/">LinkedIn ↗</a> &nbsp; · &nbsp;
-  <a href="mailto:zechengl@andrew.cmu.edu">Say hello ↗</a>
+  <a href="mailto:zechengl@alumni.cmu.edu">Say hello ↗</a>
 </p>
 
 ## 🍊 Building ML systems that work in production
@@ -27,4 +27,4 @@ Away from models: basketball, fitness, cooking, and exploring trails. Still curi
 
 ---
 
-**Let's connect.** I'm open to collaborating on LLM and Generative AI projects. Find me on [LinkedIn](https://www.linkedin.com/in/zecheng-li-664536213/), explore my [portfolio](https://orangejustin.github.io/), or reach out at [zechengl@andrew.cmu.edu](mailto:zechengl@andrew.cmu.edu).
+**Let's connect.** I'm open to collaborating on LLM and Generative AI projects. Find me on [LinkedIn](https://www.linkedin.com/in/zecheng-li-664536213/), explore my [portfolio](https://orangejustin.github.io/), or reach out at [zechengl@alumni.cmu.edu](mailto:zechengl@alumni.cmu.edu).
