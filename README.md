@@ -1,5 +1,7 @@
 <a href="https://github.com/orangejustin">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-compact-static.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-static.svg">
     <source media="(max-width: 600px)" srcset="./assets/profile-compact.svg">
     <img src="./assets/profile.svg" width="100%" alt="Zecheng (Justin) Li — Machine Learning Engineer. Search, Ranking, Generative Retrieval.">
   </picture>
