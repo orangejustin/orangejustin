@@ -1,7 +1,7 @@
 <a href="https://github.com/orangejustin">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-compact.svg">
-    <img src="./assets/profile.svg" width="100%" alt="Zecheng (Justin) Li — Full-stack Data Scientist. Curious, Innovative, Motivated.">
+    <img src="./assets/profile.svg" width="100%" alt="Zecheng (Justin) Li — Machine Learning Engineer. Search, Ranking, Generative Retrieval.">
   </picture>
 </a>
 
@@ -11,34 +11,18 @@
   <a href="mailto:zechengl@andrew.cmu.edu">Say hello ↗</a>
 </p>
 
-## 🍊 Hello, I'm Justin
+## 🍊 Building ML systems that work in production
 
-I'm a curious and passionate grad student from **Carnegie Mellon University**, specializing in **data science and machine learning**. I love transforming complex data into insightful, actionable solutions that create value for businesses and society.
+I'm **Justin**, a **Machine Learning Engineer in Search at TikTok**. My work connects retrieval and ranking model design with evaluation, online serving, and experimentation.
 
-### Exploring & learning
+- **Retrieval & ranking:** Generative retrieval from dataset construction through training, indexing, and serving; integration with multi-stage ranking systems.
+- **Model scaling & learning objectives:** Transformer rankers, warm-start strategies for sparse embeddings and dense components, listwise distillation, and calibrated multi-task learning.
+- **Production reliability:** Offline-to-online feature consistency, ranking observability, model-launch validation, and online experiments.
 
-- **Interests:** Data Science, Machine Learning, Analytics
-- **Currently learning:** Deep Learning, CUDA, Parallel Distribution, LLMs, Generative AI
-- **Let's build together:** I'm open to collaborating on LLM and Generative AI projects.
+Previously, I worked on **Bayesian time-series modeling and multimodal anomaly detection at Argonne National Laboratory**. I'm a **CMU MISM graduate** and **UC San Diego alumnus**.
 
-### My toolkit
-
-| Area | Technologies |
-| :-- | :-- |
-| **Languages** | Python · Java · R · SQL · JavaScript · CSS · HTML |
-| **Frameworks** | PyTorch · TensorFlow · Keras |
-| **Tools** | Jupyter · Tableau · Google Cloud · Google Analytics |
-
-### Beyond the screen
-
-Basketball enthusiast, fitness devotee, aspiring chef, and trail explorer—balancing life with the things I love :)
-
-<details>
-  <summary>A little data-inspired art</summary>
-  <br>
-  <img src="./present.png" width="550" alt="An orange and blue illustration of a three-dimensional data landscape.">
-</details>
+Away from models: basketball, fitness, cooking, and exploring trails. Still curious, innovative, and motivated :)
 
 ---
 
-**Let's connect.** Find me on [LinkedIn](https://www.linkedin.com/in/zecheng-li-664536213/), explore my [portfolio](https://orangejustin.github.io/), or reach out at [zechengl@andrew.cmu.edu](mailto:zechengl@andrew.cmu.edu).
+**Let's connect.** I'm open to collaborating on LLM and Generative AI projects. Find me on [LinkedIn](https://www.linkedin.com/in/zecheng-li-664536213/), explore my [portfolio](https://orangejustin.github.io/), or reach out at [zechengl@andrew.cmu.edu](mailto:zechengl@andrew.cmu.edu).
